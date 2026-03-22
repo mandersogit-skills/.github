@@ -1,0 +1,1 @@
+No smarmy default page.
